@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning C++ programming
 - 💞️ I’m looking to collaborate on projects to learn
-- 📫 How to reach me email; sumitgoyal22g@gmail.com
+- 📫 How to reach me email; adityagoyal686cwm@gmail.com
 
 <!---
 AdityaGoyal-code/AdityaGoyal-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
